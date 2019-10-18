@@ -48,3 +48,10 @@ body {
   padding: : 2em;
 
 }
+
+#footer{
+  text-align: center;
+  background-color: grey;
+  color: white;
+  padding: 2em;
+}
